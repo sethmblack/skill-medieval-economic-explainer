@@ -4,7 +4,8 @@ description: Explain modern economic concepts through medieval trade examples an
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4473
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - medieval-economic-explainer
 - writing
